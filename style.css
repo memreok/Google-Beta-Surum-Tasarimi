@@ -1,0 +1,107 @@
+img{
+    position: absolute;
+    left: 585px;
+    top: 30%;
+}
+#first{
+    background-color: silver;
+    width: 94%;
+    height: 8%;
+    position: absolute;
+    margin-left: 3%;
+    margin-right: 3%;
+    top: 45%;
+    text-align: center;
+}
+#first ul{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+}
+#first ul li div{
+    background-color: white;
+    width: 20%;
+    height: 25%;
+    border: 1px;
+    position:absolute;
+    left: 585px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 0%;
+}
+#first ul li button{
+    position:absolute ;
+    top: 60%;
+}
+#first-button{
+    position:absolute ;
+    top: 60%;
+    left: 42%;
+}
+#left{
+    background-color: aqua;
+    position: absolute;
+    left:3.5% ;
+    top: 54%;
+    padding: 0%;
+    width: 38%;
+    height: 15%;
+}
+#left ul{
+    list-style: none;
+    text-align: center;
+    padding: 0%;
+}
+#center{
+    background-color: rgb(107, 207, 207);
+    position: absolute;
+    left:42% ;
+    top: 54%;
+    padding: 0%;
+    width: 19%;
+    height: 15%;
+}
+#center ul{
+    list-style: none;
+    text-align: center;
+    padding: 0%;
+}
+#right{
+    background-color: rgb(50, 105, 105);
+    position: absolute;
+    left:61.5% ;
+    top: 54%;
+    padding: 0%;
+    width: 36%;
+    height: 15%;
+}
+#right ul{
+    list-style: none;
+    text-align: center;
+    padding: 0%;
+}
+#right ul li div{
+    background-color: white;
+    text-align: left;
+    width: 240px;
+    height: 23px;
+    border: 1px;
+    margin-left: 170px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 0%;
+}
+#right ul li button{
+    margin-right: 15px;
+    margin-top: 3px;
+}
+#end {
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+    top: 73%;
+    left: 45%;
+}
